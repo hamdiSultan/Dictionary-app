@@ -1,0 +1,16 @@
+{
+    "crocodile": {
+        "meaning": "تمساح",
+        "definition": "A large reptile",
+        "image": "images/large1.jpg",
+        "audio": "audio/word1.mp3"
+    },
+    "lion": {
+        "meaning": "أسد",
+        "definition": "Definition of Word 2",
+        "image": "images/large2.jpg",
+        "audio": "audio/word2.mp3"
+    }
+    // Add more words as needed
+}
+1Mg_oNKMrrZa_PP_GONz_G_3yq5ts4K-Z
